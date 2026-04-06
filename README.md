@@ -1,4 +1,3 @@
-Medium Link: https://medium.com/p/f4312523d94b?postPublishedType=initial
 Fashion MNIST Classification with CNN
 Overview
 
@@ -45,3 +44,5 @@ Python
 TensorFlow / Keras
 NumPy
 Matplotlib
+
+Medium Link: https://medium.com/p/f4312523d94b?postPublishedType=initial
